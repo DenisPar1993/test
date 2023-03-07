@@ -1,0 +1,10 @@
+.text{
+    font-size: 20px;
+    font-style: italic;
+    color: blueviolet;
+}
+.title{
+    font-size: 30;
+    text-align: center;
+    margin: 20px;
+}
