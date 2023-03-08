@@ -12,3 +12,8 @@ for(i=0;i<10;i++){
     console.log(i);
 }
 ```
+
+## цитаты
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
