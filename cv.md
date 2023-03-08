@@ -20,3 +20,8 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 
 > Выделять слова можно при помощи * и _ . Например, это <em class="a1">italic</em> и это тоже <i class="a1">italic</i>. А вот так уже <b>strong</b>, и так тоже <strong>strong</strong>.
+
+
+## Картинки
+
+![pict](picture.jpg)
