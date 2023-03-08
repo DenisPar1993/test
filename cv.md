@@ -1,27 +1,46 @@
-# Задеплоина
+#                       Denis Paramonov
+***
+
+# Contacts
+* **Location**: Batumi
+* **email**: whatsmyageagain@mail.ru
+* **Phone**: +7 888 888 88 88                 
+
+# About me
+
+***
+I am hard-working and responsible person. I have excellent communication skills. My major strength is the ability to work under pressure.
 
 
-### Навыки
-+ Html
-+ Css
-+ js
+# Skills
+
+***
+* HTML
+* CSS/Sass
+* JS
+* React
+* Redux 
+                                                                                                                      
 
 
+# Code Example
+***
 ```
-for(i=0;i<10;i++){
-    console.log(i);
+function filter_list(l) {
+ return l.filter(item => typeof item ==='number')
 }
 ```
 
-## цитаты
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+# Experience
+***
 
 
-> Выделять слова можно при помощи * и _ . Например, это <em class="a1">italic</em> и это тоже <i class="a1">italic</i>. А вот так уже <b>strong</b>, и так тоже <strong>strong</strong>.
-
-
-## Картинки
-
-![pict](picture.jpg)
+# Education
+***
+* Voronezh State University
+* Udemi
+* https://learn.javascript.ru/   
+                                                                                                                       
+# English
+***
+* B1
