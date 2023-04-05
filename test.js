@@ -1,3 +1,3 @@
-import test from './test.json';
-console.log(test)
+
+fetch('./test.json').then(data=>data.json()).then(data=>console.log(data))
 
